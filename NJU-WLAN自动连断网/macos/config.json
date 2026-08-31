@@ -1,0 +1,9 @@
+{
+  "username": "",
+  "password": "",
+  "idleTimeoutSeconds": 300,
+  "pollSeconds": 5,
+  "infoUrl": "https://p.nju.edu.cn/api/portal/v1/getinfo",
+  "loginUrl": "https://p.nju.edu.cn/api/portal/v1/login",
+  "logoutUrl": "https://p.nju.edu.cn/api/portal/v1/logout"
+}
